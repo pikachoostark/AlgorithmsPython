@@ -11,5 +11,4 @@ def fibonacci_one(fib_index):
         return b
 
 
-# TODO... Можно сделать поменьше строк и проверок в условном операторе
 print(fibonacci_one(int(input("Введите номер числа в последовательности: "))))
